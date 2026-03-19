@@ -1,8 +1,8 @@
 class Tora < Formula
   desc "TORA (Tex One-shot Report Agent) - AI-powered LaTeX report generator"
   homepage "https://github.com/TEIKOTA/tora"
-  url "https://github.com/TEIKOTA/tora/archive/refs/tags/v0.1.2.tar.gz"
-  sha256 "c9124c887ab675fe6c959705b48e95fc7a2ef5cb02120e0936198e4a4d066722"
+  url "https://github.com/TEIKOTA/tora/archive/refs/tags/v0.1.3.tar.gz"
+  sha256 "d6b2204a4a98edaba91c575ebaaf02b2afcfa238ee7de64fb6519f94dda589a7"
   license "MIT"
 
   # 依存関係
